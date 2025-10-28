@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#maindiv{
+    width: 300px;
+    border: solid white 2px;
+    margin: 0px auto;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+input{
+   width: 90%;
+}
+#colorDiv{
+    width: 150px;
+    height: 150px;
+    margin: 0px auto;
+    background-color: rgb(248,10,10);
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
